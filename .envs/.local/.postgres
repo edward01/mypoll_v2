@@ -1,7 +1,7 @@
 # PostgreSQL
 # ------------------------------------------------------------------------------
-POSTGRES_HOST=postgres
+POSTGRES_HOST=127.0.0.1
 POSTGRES_PORT=5432
-POSTGRES_DB=mysite_v2
-POSTGRES_USER=AvCSoTNLMQdKOZmcVcRqmcMaKFcBYeol
-POSTGRES_PASSWORD=OVFQnjoyU44LC3JuGDeOOB7fxhaof8mZfFIQ5WmL1ZcjKwB3viw1Fzk3mo3GMc5y
+POSTGRES_DB=
+POSTGRES_USER=
+POSTGRES_PASSWORD=
